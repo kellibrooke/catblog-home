@@ -1,0 +1,12 @@
+h1{
+  font-size: 50px;
+  color: hotpink;
+}
+
+li{
+  font-style: italic;
+}
+
+img{
+  border:dashed 2px hotpink;
+}
